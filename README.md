@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 📺 eu gosto de assistir series e filmes
 - 🐶 eu gosto de cachorro
 
--->
+--> 
+![Texto Alternativo](https://media.tenor.com/tZu9XAKCIQUAAAAM/skateboarding-red-bull.gif)
+
