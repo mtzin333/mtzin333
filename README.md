@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - 🐶 eu gosto de cachorro
 
 --> 
-![Texto Alternativo](https://media.tenor.com/tZu9XAKCIQUAAAAM/skateboarding-red-bull.gif)
-
-![Texto alternativo](https://media.tenor.com/NeFb4g41aUgAAAAM/playstation-playstation2.gif)
+![Texto Alternativo](https://media.tenor.com/tZu9XAKCIQUAAAAM/skateboarding-red-bull.gif) ![Texto alternativo](https://media.tenor.com/NeFb4g41aUgAAAAM/playstation-playstation2.gif) ![texto alternativo](https://media.tenor.com/vzLt6QbnzgcAAAAM/all-eyez-on-me.gif)
