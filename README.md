@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🐶 eu gosto de cachorro
 
 --> 
-![Texto Alternativo](https://tenor.com/pt-BR/view/older-brother-core-2000s-older-brother-older-brother-aesthetic-2000s-older-brother-core-2000s-older-brother-aesthetic-gif-17036447813611405346) ![Texto alternativo](https://media.tenor.com/NeFb4g41aUgAAAAM/playstation-playstation2.gif) ![texto alternativo](https://media.tenor.com/vzLt6QbnzgcAAAAM/all-eyez-on-me.gif)
+![Texto Alternativo](https://media.tenor.com/EGvZno610_IAAAAm/achievement-unlocked.webp) ![Texto alternativo](https://media.tenor.com/NeFb4g41aUgAAAAM/playstation-playstation2.gif) ![texto alternativo](https://media.tenor.com/vzLt6QbnzgcAAAAM/all-eyez-on-me.gif)
