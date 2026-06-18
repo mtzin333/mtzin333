@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🐶 eu gosto de cachorro
 
 --> 
-![Texto Alternativo](https://media.tenor.com/EGvZno610_IAAAAm/achievement-unlocked.webp) ![Texto alternativo](https://media.tenor.com/NeFb4g41aUgAAAAM/playstation-playstation2.gif) ![texto alternativo](https://media.tenor.com/vzLt6QbnzgcAAAAM/all-eyez-on-me.gif) ![texto alternativo](https://media.tenor.com/BoroYf5xpGcAAAAm/sigh-kenny-mccormick.webp)
+<img src="https://media.tenor.com/EX93PqH1T50AAAAM/mtv-unplugged-nirvana.gif" width="100%" alt="Descrição do GIF">
