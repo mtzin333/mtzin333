@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🐶 eu gosto de cachorro
 
 --> 
-<img src="https://media.tenor.com/EX93PqH1T50AAAAM/mtv-unplugged-nirvana.gif" width="100%" alt="Descrição do GIF">
+<img src="https://media.tenor.com/EX93PqH1T50AAAAM/mtv-unplugged-nirvana.gif" width="60%" alt="Descrição do GIF">
